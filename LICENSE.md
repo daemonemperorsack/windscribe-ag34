@@ -1,4 +1,4 @@
-
+Windscribe updated Plugin: NAT-firewall & server-locations is the best Windscribe plugin, featuring NAT-firewall and server-locations. Secure, fast, and optimized for privacy.
 
 
 
